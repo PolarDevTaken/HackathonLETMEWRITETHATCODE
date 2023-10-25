@@ -1,0 +1,1 @@
+Dużo z kodu/assetów nie zostało wykorzystanych, jednakże znajdują się w plikach gry. 
